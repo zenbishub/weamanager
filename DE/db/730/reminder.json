@@ -1,0 +1,26 @@
+{
+    "2": {
+        "Ersteller": "RUNDINFO",
+        "Uhrzeit": "06:30",
+        "Turnus": "1",
+        "Turnus-Plan": "",
+        "Erinnerung-Text": "<h4>Wichtige Mitteilung!<\/h4>Bitte f\u00fcr die Fahrzeuge, die weitere Etnladestellen haben Funktion Weterleitung benutzen. Danke",
+        "Reminder-ID": 1
+    },
+    "1": {
+        "Ersteller": "RUNDINFO",
+        "Uhrzeit": "10:40",
+        "Turnus": "1",
+        "Turnus-Plan": "",
+        "Erinnerung-Text": "<h4>Wichtige Mitteilung!<\/h4>Bitte Mitarbeiter wegen Quittierungen sensibilisieren, damit die Pforte nicht nachquittieren muss.  Danke <br> Rundinformation f\u00fcr alle LKW-Managerbetreiber",
+        "Reminder-ID": 1
+    },
+    "0": {
+        "Ersteller": "RUNDINFO",
+        "Uhrzeit": "07:10",
+        "Turnus": "1",
+        "Turnus-Plan": "",
+        "Erinnerung-Text": "<h4>Wichtige Mitteilung!<\/h4>Bitte Mitarbeiter wegen Quittierungen sensibilisieren, damit die Pforte nicht nachquittieren muss.  Danke <br> Rundinformation f\u00fcr alle LKW-Managerbetreiber",
+        "Reminder-ID": 1
+    }
+}

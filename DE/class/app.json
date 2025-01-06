@@ -1,0 +1,8 @@
+{
+    "appdata":{
+        "base":"/weamanager/de/",
+        "database":"wareneingang",
+        "werknummer":730,
+        "scanFolder":"ScannFolder/"
+    }
+}

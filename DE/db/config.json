@@ -1,0 +1,74 @@
+[
+    {
+        "Werkname":"Werk 5 Neu-Ulm",
+        "Werknummer":"730",
+        "Deparments":[
+            { 
+                "Abteilung":"Wareneingang Werk 5",
+                "Abt-ID":"601",
+                "Ber-ID":"WEING-5",
+                "BP":"startapp",
+                "Start":""
+            },
+            { 
+                "Abteilung":"Versand Werk 5",
+                "Abt-ID":"602",
+                "Ber-ID":"VERS-5",
+                "BP":"startapp",
+                "Start":""
+            },
+            { 
+                "Abteilung":"Lackierung Werk 5",
+                "Abt-ID":"603",
+                "Ber-ID":"LACK-5",
+                "BP":"startapp",
+                "Start":""
+            },
+            { 
+                "Abteilung":"Zollstelle",
+                "Abt-ID":"604",
+                "Ber-ID":"ZOLL-5",
+                "BP":"startapp",
+                "Start":"zollgut"
+            },
+            { 
+                "Abteilung":"Instandhaltung 1560",
+                "Abt-ID":"605",
+                "Ber-ID":"INST-5",
+                "BP":"startapp",
+                "Start":"startapp"
+            },
+            { 
+                "Abteilung":"Instandhaltung 1530",
+                "Abt-ID":"606",
+                "Ber-ID":"INST-5",
+                "BP":"startapp",
+                "Start":"startapp"
+            }
+             
+        ],
+        "INUMMER":1
+    },
+    {
+        "Werkname":"Werk 9 Neu-Ulm",
+        "Werknummer":"730",
+        "Deparments":[
+           
+            { 
+                "Abteilung":"Versand Werk 9",
+                "Abt-ID":"401",
+                "Ber-ID":"VERS-9",
+                "BP":"startapp",
+                "Start":""
+            },
+            { 
+                "Abteilung":"Wareneingang Werk 9",
+                "Abt-ID":"402",
+                "Ber-ID":"WEING-9",
+                "BP":"startapp",
+                "Start":""
+            }
+        ],
+        "INUMMER":3
+    }
+]

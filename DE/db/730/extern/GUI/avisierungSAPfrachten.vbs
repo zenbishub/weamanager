@@ -1,0 +1,41 @@
+If Not IsObject(application) Then
+   Set SapGuiAuto  = GetObject("SAPGUI")
+   Set application = SapGuiAuto.GetScriptingEngine
+End If
+If Not IsObject(connection) Then
+   Set connection = application.Children(0)
+End If
+If Not IsObject(session) Then
+   Set session    = connection.Children(0)
+End If
+If IsObject(WScript) Then
+   WScript.ConnectObject session,     "on"
+   WScript.ConnectObject application, "on"
+End If
+Dim oShell 
+Set oShell = Wscript.CreateObject("WScript.Shell")
+session.findById("wnd[0]").maximize
+session.findById("wnd[0]/tbar[0]/okcd").text = "vt12"
+session.findById("wnd[0]/tbar[0]/btn[0]").press
+session.findById("wnd[0]/usr/ctxtK_TPLST-LOW").text = "1000"
+session.findById("wnd[0]/usr/ctxtK_TPLST-HIGH").text = "1050"
+session.findById("wnd[0]/usr/ctxtK_ERDAT-LOW").text = "05.07.2024"
+session.findById("wnd[0]/usr/ctxtK_ERDAT-HIGH").text = "04.08.2024"
+session.findById("wnd[0]/usr/ctxtK_ERDAT-HIGH").setFocus
+session.findById("wnd[0]/usr/ctxtK_ERDAT-HIGH").caretPosition = 10
+session.findById("wnd[0]/tbar[1]/btn[8]").press
+session.findById("wnd[0]/mbar/menu[0]/menu[10]/menu[0]").select
+session.findById("wnd[1]/tbar[0]/btn[0]").press
+session.findById("wnd[1]/usr/ctxtDY_PATH").text = "\\SEVOM011N030.BUS.CORPINTRA.NET\sapsource"
+session.findById("wnd[1]/usr/ctxtDY_FILENAME").text = "AvisSAP.xlsx"
+session.findById("wnd[1]/usr/ctxtDY_FILENAME").caretPosition = 12
+session.findById("wnd[1]/tbar[0]/btn[11]").press
+session.findById("wnd[0]/tbar[0]/btn[3]").press
+session.findById("wnd[0]/tbar[0]/btn[3]").press
+Set objWMIService = GetObject("winmgmts:" _
+        & "{impersonationLevel=impersonate}!\\.\root\cimv2")
+     Set colProcessList = objWMIService.ExecQuery _
+        ("Select * from Win32_Process Where Name = 'Excel.exe'")
+     For Each objProcess in colProcessList
+        oShell.Run "taskkill /f /im excel.exe", , TRUE
+     Next

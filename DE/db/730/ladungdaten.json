@@ -1,0 +1,37 @@
+[   
+    {
+        "KN":"Wareneingang Werk 5",
+        "AN":"Wareneingang Werk 5",
+        "lang":"string0"
+    },    
+    {
+        "KN":"Versand Werk 5",
+        "AN":"Transport für Versand Werk 5 (SKD)",
+        "lang":"string1"
+    },
+    {
+        "KN":"Transport für Werk 9",
+        "AN":"Transport für Werk 9",
+        "lang":"string2"
+    },    
+    {
+        "KN":"Leergut-Abholung",
+        "AN":"Leegut Abholung",
+        "lang":"string3"
+    },
+    {
+        "KN":"Paketdienst",
+        "AN":"Paketdienst",
+        "lang":"string4"
+    },
+    {
+        "KN":"Langgut",
+        "AN":"Langgutträger",
+        "lang":"string5"
+    },
+    {
+        "KN":"Zollstelle",
+        "AN":"Zollstelle",
+        "lang":"string6"
+    }
+]

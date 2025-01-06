@@ -1,0 +1,86 @@
+{
+    "0": {
+        "Firma": "Daimler Buses Werk 5",
+        "Adresse": "Carl-Zeiss-Str. 2",
+        "PLZ":"89231 Neu-Ulm",
+        "Abladestelle":"Leergutplatz",
+        "Abl-ID":"51"
+    },
+    "1": {
+        "Firma": "Daimler Buses Werk 5",
+        "Adresse": "Carl-Zeiss-Str. 2",
+        "PLZ":"89231 Neu-Ulm",
+        "Abladestelle":"Versandplatz",
+        "Abl-ID":"52"
+    },
+    "2": {
+        "Firma": "Daimler Buses Werk 5",
+        "Adresse": "Carl-Zeiss-Str. 2",
+        "PLZ": "89231 Neu-Ulm",
+        "Abladestelle":"Klappenmontage Halle 30",
+        "Abl-ID":"53"
+    },
+    "3": {
+        "Firma": "Daimler Buses Werk 9",
+        "Adresse": "Carl-Zeiss-Str. 2",
+        "PLZ": "89231 Neu-Ulm",
+        "Abladestelle":"Werk 9 Offline",
+        "Abl-ID":"91"
+    },
+    "4": {
+        "Firma": "Daimler Buses Werk 9",
+        "Adresse": "Carl-Zeiss-Str. 2",
+        "PLZ": "89231 Neu-Ulm",
+        "Abladestelle":"Milkrun Halle",
+        "Abl-ID":"92"
+    },
+    "5": {
+        "Firma": "Daimler Buses Werk 8",
+        "Adresse": "Otto-Renner-Strasse 40",
+        "PLZ": "89231 Neu-Ulm / Schwaighofen",
+        "Abladestelle":"vor Ort nachfragen",
+        "Abl-ID":"81"
+    },
+    "6": {
+         "Firma": "Daimler Buses Werk 4",
+        "Adresse": "Otto-Hahn-Str. 8",
+        "PLZ": "89231 Neu-Ulm",
+        "Abladestelle":"vor Ort nachfragen",
+        "Abl-ID":"41"
+    },
+    "7": {
+        "Firma": "Honold Contract Logistics GmbH",
+        "Adresse": "Leibnizstr. 24",
+        "PLZ": "89231 Neu-Ulm",
+        "Abladestelle":"bei Tor 34",
+        "Abl-ID":"H1"
+    },
+    "8": {
+        "Firma": "Seifert Logistics GmbH",
+        "Adresse": "Mergelgrube 1",
+        "PLZ": "89081 Ulm/Jungingen",
+        "Abladestelle":"vor Ort nachfragen",
+        "Abl-ID":"S1"
+    },
+    "9": {
+        "Firma": "Markus Barth Logistik GmbH & Co. KG",
+        "Adresse": "Neue Welt 37",
+        "PLZ": "88471 Laupheim",
+        "Abladestelle":"vor Ort nachfragen",
+        "Abl-ID":"B1"
+    },
+    "10": {
+        "Firma": "Frasch Fahrzeugtechnik GmbH",
+        "Adresse": "Munninger Str. 10",
+        "PLZ": "86732 Oettingen",
+        "Abladestelle":"vor Ort nachfragen",
+        "Abl-ID":"F1"
+    },
+    "11": {
+        "Firma": "Donau-Iller Werkstätten",
+        "Adresse": "Finninger Str. 33",
+        "PLZ": "89231 Neu Ulm",
+        "Abladestelle":"vor Ort nachfragen",
+        "Abl-ID":"D1"
+    }
+}

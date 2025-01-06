@@ -1,0 +1,58 @@
+[
+
+    {
+        "lftnid": "4",
+        "Firma": "GW Ulm",
+        "FRZTyp": "LKW",
+        "Nummer": "ULFF655",
+        "modifyNummer": "ULFF655",
+        "name_fahrer": "J\u00fcrgen Mustermann",
+        "knznummer_aufleger": "",
+        "radio_legitimation": "F\u00fchrerschein",
+        "legitimation": "DK3547855"
+    },
+    {
+        "lftnid": "5",
+        "Firma": "Barth",
+        "FRZTyp": "LKW+Aufleger\/Anh.",
+        "Nummer": "UL-C-2070",
+        "modifyNummer": "UL-C-2070",
+        "name_fahrer": "Horvrat",
+        "knznummer_aufleger": "BC CC 3063",
+        "radio_legitimation": null,
+        "legitimation": null
+    },
+    {
+        "lftnid": "6",
+        "Firma": "Holz Denzel",
+        "FRZTyp": "LKW+Aufleger\/Anh.",
+        "Nummer": "WER-D-274",
+        "modifyNummer": "WER-D-274",
+        "name_fahrer": "Thimm Uwe Hans",
+        "knznummer_aufleger": "Wer-D 277",
+        "radio_legitimation": null,
+        "legitimation": null
+    },
+    {
+        "lftnid": "8",
+        "Firma": "B+B",
+        "FRZTyp": "LKW",
+        "Nummer": "NU-BB-359",
+        "modifyNummer": "NU-BB-359",
+        "name_fahrer": "Roth",
+        "knznummer_aufleger": "",
+        "radio_legitimation": null,
+        "legitimation": null
+    },
+    {
+        "lftnid": "9",
+        "Firma": "FINK Plexi",
+        "FRZTyp": "PKW",
+        "Nummer": "UL-C-975",
+        "modifyNummer": "UL-C-975",
+        "name_fahrer": "Garkov",
+        "knznummer_aufleger": "",
+        "radio_legitimation": null,
+        "legitimation": null
+    }
+]

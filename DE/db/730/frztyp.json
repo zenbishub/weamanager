@@ -1,0 +1,18 @@
+[
+    {
+        "value":"LKW",
+        "text":"Lastkraftwagen"
+    },
+    {
+        "value":"LKW+Aufleger/Anh.",
+        "text":"LKW + Aufleger / Anhänger"
+    },
+    {
+        "value":"PKW",
+        "text":"PKW / Personenkraftwagen"
+    },
+    {
+        "value":"Ohne FRZ",
+        "text":"Ohne Fahrzeug"
+    }
+]

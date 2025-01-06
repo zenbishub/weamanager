@@ -1,0 +1,93 @@
+[
+    {
+        "userid": "WHAZENB",
+        "Roll": "SAdmin",
+        "Access": "Hauptsteuer-Modul",
+        "URL": "",
+        "Viewport": [
+            "verlauf",
+            "warteschlange",
+            "improzess",
+            "utilities"
+        ]
+    },
+    {
+        "userid": "ZENBIS",
+        "Roll": "SAdmin",
+        "Access": "Hauptsteuer-Modul",
+        "URL": ""
+    },
+    {
+        "userid": "DIEBERS",
+        "Roll": "SAdmin",
+        "Access": "Hauptsteuer-Modul",
+        "URL": ""
+    },
+    {
+        "userid": "KLWEBE4",
+        "Roll": "SAdmin",
+        "Access": "Hauptsteuer-Modul",
+        "URL": ""
+    },
+    {
+        "userid": "ACANAR",
+        "Roll": "Mitarbeiter",
+        "Access": "Hauptsteuer-Modul",
+        "URL": ""
+    },
+     {
+        "userid": "MIRRIES",
+        "Roll": "Mitarbeiter",
+        "Access": "Hauptsteuer-Modul",
+        "URL": ""
+    },
+    {
+        
+        "userid": "PFORTE",
+        "Roll": "Pforteuser",
+        "Access": "Werkspforte",
+        "URL": "maingate"
+    },
+    {
+        "userid": "ZOLLSTELLE",
+        "Roll": "Zolluser",
+        "Access": "Zollgut",
+        "URL": "zollgut"
+    },
+    {
+        "userid": "SCHICHTLEITER",
+        "Roll": "Schichtleiter",
+        "Access": "",
+        "URL": "stapler"
+    },
+    {
+        "userid": "STARTSTAPLER",
+        "Roll": "Mitarbeiter",
+        "Access": "Monitor",
+        "URL": "stapler"
+    },
+    {
+        "userid": "45-088",
+        "Roll": "Mitarbeiter",
+        "Access": "Monitor",
+        "URL": "",
+        "Viewport": [
+            "utilities",
+            "verlauf",
+            "improzess",
+            "warteschlange"
+        ]
+    },
+    {
+        "userid": "45-086",
+        "Roll": "Mitarbeiter",
+        "Access": "Monitor",
+        "URL": "",
+        "Viewport": [
+            "utilities",
+            "verlauf",
+            "improzess",
+            "warteschlange"
+        ]
+    }
+]
